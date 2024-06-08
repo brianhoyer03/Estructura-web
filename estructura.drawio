@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="M_o2Z_cp3edHvHczAjhD" name="Page-1">
+        <mxGraphModel dx="850" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;br&gt;SUBTITULO&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Punto 1&lt;/div&gt;aaaaaaaaaaaaaa&lt;br&gt;aaaaaaaaaaaaaa&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Punto 2&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;aaaaaaaaaaaaaa&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;aaaaaaaaaaaaaa&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Punto 3&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;aaaaaaaaaaaaaa&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;aaaaaaaaaaaaaa&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="170" width="230" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="SUBTITULO&lt;br&gt;aaaaaaaaaaaaaaa&lt;br&gt;aaaaaaaaaaaaaaa" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="170" width="230" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="TITULO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="70" width="460" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
